@@ -9,7 +9,7 @@
 - 👀 I've been a self-taught developer since 2015, currently focused on Software Engineering, with a focus on Backend.
 - 🌱 I'm currently learning Ruby on Rails.
 - 💞️ I like to collaborate with projects with specific objectives and preferably with great values involved. I am enthusiastic, I like to learn and to lead teams that want to grow.
-- 📫 To find me, send an email to: igor@cadenzatecnologia.com.br and ask for your CV, in the case of freelance work or something similar.
+- 📫 To find me, send an email to: igor@cadenzatecnologia.com.br and ask for my CV, in the case of freelance work or something similar.
 
 <!---
 igorsouzadevbr/igorsouzadevbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
